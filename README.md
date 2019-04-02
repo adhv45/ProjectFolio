@@ -1,2 +1,2 @@
 # ProjectFolio
-A platform where students can update about there projects. Other can discuss about the project here.
+A platform to promote open source software where anyone can add their projects for open source development and interested people can contribute and discuss about the projects.
